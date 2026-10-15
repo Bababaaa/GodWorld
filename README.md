@@ -1,6 +1,6 @@
 # God World — Child of Earth
 
-Child of Earth is a story-driven adventure game prototype in the God World setting, developed by Thomas Swayne with AI assistance.
+Child of Earth is a story-driven adventure game prototype in the God World setting, developed by Thomas Swayne.
 
 ## Project status
 
