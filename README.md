@@ -8,7 +8,7 @@ The game is in active development. This repository currently serves as a project
 
 ## My contribution
 
-I handle story and game design, direct AI-assisted implementation, write and review code, and playtest builds. I use AI assistance throughout development and evaluate the resulting changes through code review, testing, and iteration.
+I handle story, game design, and implementation, write and review code, and playtest builds. 
 
 ## Implementation
 
